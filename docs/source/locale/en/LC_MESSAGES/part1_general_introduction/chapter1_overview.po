@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Yared Getachew
+# This file is distributed under the same license as the
+# HelloCash-API-Integration-Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HelloCash-API-Integration-Guide 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 16:26+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/part1_general_introduction/chapter1_overview.rst:4
+msgid "General Overview"
+msgstr ""
+
+#: ../../source/part1_general_introduction/chapter1_overview.rst:6
+msgid ""
+"In todays world it is very hard to imagine life without technology. "
+"Technology touches everyone of us different ways whether we realize it or"
+" not."
+msgstr ""
+
+#: ../../source/part1_general_introduction/chapter1_overview.rst:9
+msgid "One of the many different technolgy results is the Internet."
+msgstr ""
+
