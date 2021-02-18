@@ -101,7 +101,8 @@ html_theme_options = {
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
-    'style_nav_header_background': 'orange',
+    # 'style_nav_header_background': '#d57b0e',
+    'style_nav_header_background': '#ff9430',
     # Toc options
     'collapse_navigation': True,
     'sticky_navigation': True,
