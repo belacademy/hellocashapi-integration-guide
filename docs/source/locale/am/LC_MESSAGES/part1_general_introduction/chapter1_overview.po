@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/part1_general_introduction/chapter1_overview.rst:4
 msgid "General Overview"
-msgstr ""
+msgstr "መንደርደሪያ"
 
 #: ../../source/part1_general_introduction/chapter1_overview.rst:6
 msgid ""
@@ -28,7 +28,8 @@ msgid ""
 "Technology touches everyone of us different ways whether we realize it or"
 " not."
 msgstr ""
-
+"ባለንበት በዚህ ዘመን መቸም ያለ ቴክኖሎጂ ነገሮችን ማሰብ ፈጽሞ አስቸጋሪ ነው።"
+"ቴክኖሎጂ በዓለም ላይ በሁሉም ሥፍራ በተለያዩ አጋጣሚዎች አውቀነውም ይሁን ሳናውቀ  ከህይወታችን ምህዋር ጋር ተዋቅሯል።"
 #: ../../source/part1_general_introduction/chapter1_overview.rst:9
 msgid "One of the many different technolgy results is the Internet."
 msgstr ""
