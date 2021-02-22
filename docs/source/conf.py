@@ -54,8 +54,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'HelloCash-API-Integration-Guide'
-copyright = '2021, Yared Getachew'
-author = 'Yared Getachew'
+copyright = '2021, BelAcademy a BelCash initiative'
+author = 'BelAcademy a BelCash initiative'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -92,7 +92,7 @@ todo_include_todos = True
 #
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
-html_theme_path = ['_themes' ]
+html_theme_path = ['_themes']
 html_theme_options = {
     # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
     # 'analytics_anonymize_ip': False,
@@ -101,9 +101,9 @@ html_theme_options = {
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
-        # 'style_nav_header_background': '#d57b0e',
+    # 'style_nav_header_background': '#d57b0e',
     'style_nav_header_background': '#ff9430',
-    
+
     # Toc options
     'collapse_navigation': True,
     'sticky_navigation': True,
@@ -169,7 +169,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'HelloCash-API-Integration-Guide.tex', 'HelloCash-API-Integration-Guide Documentation',
-     'Yared Getachew', 'manual'),
+     'BelAcademy a BelCash initiative', 'manual'),
 ]
 
 
